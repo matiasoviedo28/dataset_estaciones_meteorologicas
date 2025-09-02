@@ -5,6 +5,8 @@ Repositorio con scripts en Python para descargar datos históricos de la **Red d
 ## 🛠 Requisitos
 - [Python 3](https://www.python.org/) (no se necesitan librerías externas).
 
+## Alternativa
+- Puedes visualizar una muestra de los datos no actualizados en [este DRIVE](https://drive.google.com/drive/folders/1vEArMzJzstGzUuEB2WhWF1pSjJGIWt3_?usp=sharing). (solicita el acceso)
 ## 🚀 Uso rápido
 1. Cloná el repositorio y entrá a la carpeta:
    ```bash
